@@ -68,4 +68,4 @@ Most of what I build comes from a simple question: why is this still hard? Compi
 20 years old · shipping from SF · always down to collab on something ambitious
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%" />
-</div>div>
+</div>
