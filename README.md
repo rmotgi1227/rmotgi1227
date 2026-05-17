@@ -3,15 +3,14 @@
 
 # Hi, I'm Rishab Motgi
 
-<p>Builder. 20-year-old shipping things that matter.</p>p>
-<p>I build at the intersection of AI infrastructure, dev tools, and sales intelligence.<br/>
-Full-stack by necessity. Systems thinker by default.</p>p>
+Builder. 20-year-old shipping things that matter.
 
-<p align="center">
-    <a href="mailto:rishab.motgi@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Email"/></a>a>
-    <a href="https://linkedin.com/in/rishabmotgi"><img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/></a>a>
-    <a href="https://github.com/rmotgi1227"><img src="https://cdn.simpleicons.org/github/e6edf3" width="32" alt="GitHub"/></a>a>
-</p>p>
+I build at the intersection of AI infrastructure, dev tools, and sales intelligence.
+Full-stack by necessity. Systems thinker by default.
+
+<a href="mailto:rishab.motgi@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Email"/></a>
+<a href="https://linkedin.com/in/rishabmotgi"><img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/></a>
+<a href="https://github.com/rmotgi1227"><img src="https://cdn.simpleicons.org/github/e6edf3" width="32" alt="GitHub"/></a>
 
 </div>
 
@@ -29,45 +28,44 @@ Most of what I build comes from a simple question: why is this still hard? Compi
 
 <div align="center">
 
-  [![Compile](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=Compile&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/Compile)
-  [![ThirdEye](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=ThirdEye&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/ThirdEye)
+[![Compile](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=Compile&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/Compile)
+[![ThirdEye](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=ThirdEye&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/ThirdEye)
 
-  [![CCSquad](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=CCSquad&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/CCSquad)
-  [![Oriq](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=Oriq&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/Oriq)
+[![CCSquad](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=CCSquad&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/CCSquad)
+[![Oriq](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=Oriq&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/Oriq)
 
-  [![AlpacaTrading-Bot](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=AlpacaTrading-Bot&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/AlpacaTrading-Bot)
+[![AlpacaTrading-Bot](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=AlpacaTrading-Bot&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/AlpacaTrading-Bot)
 
-  </div>
+</div>
 
-  ---
+---
 
-  ## 🛠 Stack
+## 🛠 Stack
 
-  <div align="center">
+<div align="center">
 
-    **`Languages`**
-    <br>
-    <img src="https://skillicons.dev/icons?i=ts,python,swift" />
+**`Languages`**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,python,swift" />
 
-    **`Frameworks`**
-    <br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,vite" />
+**`Frameworks`**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,vite" />
 
-    **`AI / ML`**
-    <br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+**`AI / ML`**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-    **`Infra & Tools`**
-    <br>
-    <img src="https://skillicons.dev/icons?i=docker,aws,mongodb,sqlite,github,vscode" />
+**`Infra & Tools`**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,mongodb,sqlite,github,vscode" />
 
-    </div>
+</div>
 
-    ---
+---
 
-    <div align="center">
-    20 years old · shipping from SF · always down to collab on something ambitious
-    <br/><br/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%" />
-    </div>
-</p></p>
+<div align="center">
+20 years old · shipping from SF · always down to collab on something ambitious
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%" />
+</div>div>
