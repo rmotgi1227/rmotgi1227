@@ -26,17 +26,13 @@ Most of what I build comes from a simple question: why is this still hard? Compi
 
 ## 📌 Pinned Projects
 
-<div align="center">
-
-[![Compile](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=Compile&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/Compile)
-[![ThirdEye](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=ThirdEye&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/ThirdEye)
-
-[![CCSquad](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=CCSquad&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/CCSquad)
-[![Oriq](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=Oriq&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/Oriq)
-
-[![AlpacaTrading-Bot](https://github-readme-stats.vercel.app/api/pin/?username=rmotgi1227&repo=AlpacaTrading-Bot&theme=github_dark&hide_border=true)](https://github.com/rmotgi1227/AlpacaTrading-Bot)
-
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔧 [**Compile**](https://github.com/rmotgi1227/Compile) | LLM cost optimization — routes prompts away from frontier models when cheaper alternatives suffice | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 👁 [**ThirdEye**](https://github.com/rmotgi1227/ThirdEye) | Computer vision that solves package theft using hardware people already own | ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🤖 [**CCSquad**](https://github.com/rmotgi1227/CCSquad) | Multi-agent coordination layer for Claude Code — lets multiple instances collaborate on complex tasks | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🧠 [**Oriq**](https://github.com/rmotgi1227/Oriq) | Outbound sales intelligence — multi-agent system that researches prospects and generates personalized outreach | ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 📈 [**AlpacaTrading-Bot**](https://github.com/rmotgi1227/AlpacaTrading-Bot) | LLM-powered algorithmic trading bot with strategy modules, risk management, and real market execution | ![Py](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
@@ -68,4 +64,4 @@ Most of what I build comes from a simple question: why is this still hard? Compi
 20 years old · shipping from SF · always down to collab on something ambitious
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%" />
-</div>
+</div>div>
