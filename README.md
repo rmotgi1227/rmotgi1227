@@ -14,7 +14,9 @@ Low Cortisol, High Agency.
 
 ---
 
-I like building cool things! 
+CS & EQM @ Indiana University Bloomington. Currently a Founder in Residence at **Founders, Inc.** (Canopy Cohort), building companies from 0 to 1. Previously Co-Founder at **Ryft AI**, where I built full-stack infra for sales compensation automation.
+
+Involved in IU Innovates Incubator Track and FinTech. Interested in the intersection of AI, fintech, and high-agency building.
 
 ---
 
