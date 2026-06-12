@@ -23,7 +23,7 @@
 
 CS & EQM @ Indiana University Bloomington. Currently a **Founding Engineer at YCrest**, building from 0 to 1. Previously a Founder in Residence at **Founders, Inc.** (Canopy Cohort) and Co-Founder at **Ryft AI**, where I built full-stack infra for sales compensation automation.
 
-Involved in IU Innovates Incubator Track and FinTech. Enjoy building cool stuff!
+I enjoy building cool shit!
 
 ---
 
