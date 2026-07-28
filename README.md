@@ -5,7 +5,7 @@
 
 ### Low Cortisol, High Agency.
 
-[![Indiana University](https://img.shields.io/badge/CS_&_EQM_@_Indiana_University-990000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2IDktNS0xVjE3aDJWOS4yN0wyMyA5bC0xMS02ek01IDE1LjE4VjE4bDcgMy44OSA3LTMuODl2LTIuODJsLTcgMy44OS03LTMuODl6Ii8+PC9zdmc+&logoColor=white)](https://www.indiana.edu/)
+[![Information Systems @ NYU](https://img.shields.io/badge/Information_Systems_@_NYU-800080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2IDktNS0xVjE3aDJWOS4yN0wyMyA5bC0xMS02ek01IDE1LjE4VjE4bDcgMy44OSA3LTMuODl2LTIuODJsLTcgMy44OSA3LTMuODl6Ii8+PC9zdmc+&logoColor=white)](https://www.nyu.edu/)
 
 <p align="center">
   <a href="mailto:rishab.motgi@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Email"/></a>
